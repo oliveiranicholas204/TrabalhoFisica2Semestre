@@ -19,3 +19,5 @@ Média entre as cargas = (carga da primeira esfera * carga da segunda esfera) / 
 ![Interface1](Interface3.png)
 ![Interface1](Interface4.png)
 ![Interface1](Interface5.png)
+
+Por: Nicholas de Camargo Oliveira
