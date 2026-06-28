@@ -10,3 +10,6 @@ Constante eletrostática = 9x10^9;<br>
 Carga inicial de cada esfera(Conversão para nC) = valor inserido * 1x10^-9;<br>
 Distância(Conversão para cm) = valor inserido/100;<br>
 Módulo de Força Elétrostático = Constante eletrostática * ((|primeira esfera * segunda esfera|) / (distância)²);<br>
+Média entre as cargas = (carga da primeira esfera * carga da segunda esfera) / 2;<br>
+
+**Imagens da Interface**<br>
