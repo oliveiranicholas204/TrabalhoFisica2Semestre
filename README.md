@@ -5,8 +5,8 @@
   Ele funciona da seguinte maneira: o usuário irá inserir o valor da carga de cada esfera(nC) e a distância(cm) entre cada uma. Após isso serão mostrados os valores do módulo de força entre cada par de esferas e em seguida será feita uma simulação onde o usuário poderá escolher a opção entre ligar o fio entre as esferas e aterrar a segunda esfera.<br>
   Por fim, quando o usuário decidir encerrar a simulação, serão mostrados os valores da carga final de cada esfera e o módulo eletrostático final entre cada par.<br>
 
-**Fórmulas:**
-Constante eletrostática = 9x10^9;
-Carga inicial de cada esfera(Conversão para nC) = valor inserido * 1x10^-9;
-Distância(Conversão para cm) = valor inserido/100;
-Módulo de Força Elétrostático = Constante eletrostática * (|primeira esfera * segunda esfera| / (distância)²)
+**Fórmulas:**<br>
+Constante eletrostática = 9x10^9;<br>
+Carga inicial de cada esfera(Conversão para nC) = valor inserido * 1x10^-9;<br>
+Distância(Conversão para cm) = valor inserido/100;<br>
+Módulo de Força Elétrostático = Constante eletrostática * (|primeira esfera * segunda esfera| / (distância)²);<br>
