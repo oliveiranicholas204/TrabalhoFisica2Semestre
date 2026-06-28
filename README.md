@@ -12,4 +12,6 @@ Distância(Conversão para cm) = valor inserido/100;<br>
 Módulo de Força Elétrostático = Constante eletrostática * ((|primeira esfera * segunda esfera|) / (distância)²);<br>
 Média entre as cargas = (carga da primeira esfera * carga da segunda esfera) / 2;<br>
 
-**Imagens da Interface**<br>
+**Imagens da Interface:**<br>
+
+![Interface1.png]
