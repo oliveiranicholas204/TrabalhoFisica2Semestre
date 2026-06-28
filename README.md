@@ -14,4 +14,4 @@ Média entre as cargas = (carga da primeira esfera * carga da segunda esfera) / 
 
 **Imagens da Interface:**<br>
 
-![Interface1.png]
+![Interface1.png](
